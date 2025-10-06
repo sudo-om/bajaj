@@ -2,3 +2,6 @@ Welcome to the Bajaj project!
 
 This is the index.txt file.
 Add your notes and important information here.
+
+
+hello world 
